@@ -24,8 +24,7 @@ The Smart Legal Aid & Awareness System provides a simple digital platform where 
 https://docs.google.com/forms/d/e/1FAIpQLSeNLM_w9XSbZrpR2Ze7iI0MHmSEuZrGMIEPQN8hFf-XtKAGdg/viewform?usp=publish-editor
 
 ## Demo Video (YouTube)
-https://youtu.be/10FWV4ZTWaE?si=0lfWfVyzo7ZDvZN1
-
+https://youtu.be/vteT_SBIlmw?si=qMLXXuGdMVK5-Z7q
 ## Domain
 Social Welfare / Legal Awareness
 
